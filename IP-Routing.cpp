@@ -895,9 +895,3 @@ int main()
 
   return 0;
 }
-
-/*
-https://github.com/ed-roh/chat-app?tab=readme-ov-file
-
-https://github.com/mukulsomukesh/file-sharing-app
-*/
